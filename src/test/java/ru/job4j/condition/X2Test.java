@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
 public class X2Test {
 
     @Test
-    public void whenA1B0C0X2Then40() {
+    public void whenA10B0C0X2Then40() {
         int a = 10;
         int b = 0;
         int c = 0;
