@@ -14,6 +14,7 @@ public class SwitchArrayTest {
         Assert.assertArrayEquals(expected, result);
     }
 
+
     @Test
     public void whenSwap1to2() {
         int[] input = {1, 2, 3, 4};
